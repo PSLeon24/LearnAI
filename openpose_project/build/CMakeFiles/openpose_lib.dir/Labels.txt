@@ -1,0 +1,13 @@
+# Target labels
+ openpose_lib
+# Source files and their labels
+/home/user/바탕화면/0727/build/CMakeFiles/openpose_lib
+/home/user/바탕화면/0727/build/CMakeFiles/openpose_lib.rule
+/home/user/바탕화면/0727/build/CMakeFiles/openpose_lib-complete.rule
+/home/user/바탕화면/0727/build/caffe/src/openpose_lib-stamp/openpose_lib-build.rule
+/home/user/바탕화면/0727/build/caffe/src/openpose_lib-stamp/openpose_lib-configure.rule
+/home/user/바탕화면/0727/build/caffe/src/openpose_lib-stamp/openpose_lib-download.rule
+/home/user/바탕화면/0727/build/caffe/src/openpose_lib-stamp/openpose_lib-install.rule
+/home/user/바탕화면/0727/build/caffe/src/openpose_lib-stamp/openpose_lib-mkdir.rule
+/home/user/바탕화면/0727/build/caffe/src/openpose_lib-stamp/openpose_lib-patch.rule
+/home/user/바탕화면/0727/build/caffe/src/openpose_lib-stamp/openpose_lib-update.rule

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/user/\ubc14\ud0d5\ud654\uba74/0727/build/CMakeFiles/openpose_lib"
+		},
+		{
+			"file" : "/home/user/\ubc14\ud0d5\ud654\uba74/0727/build/CMakeFiles/openpose_lib.rule"
+		},
+		{
+			"file" : "/home/user/\ubc14\ud0d5\ud654\uba74/0727/build/CMakeFiles/openpose_lib-complete.rule"
+		},
+		{
+			"file" : "/home/user/\ubc14\ud0d5\ud654\uba74/0727/build/caffe/src/openpose_lib-stamp/openpose_lib-build.rule"
+		},
+		{
+			"file" : "/home/user/\ubc14\ud0d5\ud654\uba74/0727/build/caffe/src/openpose_lib-stamp/openpose_lib-configure.rule"
+		},
+		{
+			"file" : "/home/user/\ubc14\ud0d5\ud654\uba74/0727/build/caffe/src/openpose_lib-stamp/openpose_lib-download.rule"
+		},
+		{
+			"file" : "/home/user/\ubc14\ud0d5\ud654\uba74/0727/build/caffe/src/openpose_lib-stamp/openpose_lib-install.rule"
+		},
+		{
+			"file" : "/home/user/\ubc14\ud0d5\ud654\uba74/0727/build/caffe/src/openpose_lib-stamp/openpose_lib-mkdir.rule"
+		},
+		{
+			"file" : "/home/user/\ubc14\ud0d5\ud654\uba74/0727/build/caffe/src/openpose_lib-stamp/openpose_lib-patch.rule"
+		},
+		{
+			"file" : "/home/user/\ubc14\ud0d5\ud654\uba74/0727/build/caffe/src/openpose_lib-stamp/openpose_lib-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"openpose_lib"
+		],
+		"name" : "openpose_lib"
+	}
+}
