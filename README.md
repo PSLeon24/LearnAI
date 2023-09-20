@@ -1,5 +1,8 @@
 # Learn to Machine Learning & Deep Learning
 
+### Tensor Manipulation
+- <a href="https://github.com/PSLeon24/LearnAI/blob/main/Tensor%20Manipulation/Tensor_Manipulation.ipynb">Tensor Manipulation 1</a>
+
 ### Machine Learning
 - Linear Regression
   - <a href="https://github.com/PSLeon24/LearnAI/blob/main/Machine%20Learning/MachineLearning_LinearRegression.ipynb">선형회귀로 보험료 예측하기</a>(Predict insurance premiums with linear regression)
